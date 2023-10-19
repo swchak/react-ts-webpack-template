@@ -1,9 +1,9 @@
-import { FC } from "react";
+import { type FC } from 'react'
 
 interface MessageProps {
-  greeting: string;
-  user: string;
-  projectTitle: string;
+  greeting: string
+  user: string
+  projectTitle: string
 }
 
 const App: FC<MessageProps> = (props: MessageProps) => {
@@ -13,7 +13,7 @@ const App: FC<MessageProps> = (props: MessageProps) => {
       <h1 className="user-id">{props.user} </h1>
       <h2 className="title-id">{props.projectTitle}</h2>
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App

@@ -6,7 +6,8 @@
     "target": "es5",
     "allowJs": true,
     "jsx": "react-jsx",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "strictNullChecks": true
   },
   "include": ["src/**/*"],
   "exclude": ["**/*.spec.ts"]

@@ -4,6 +4,7 @@
 This is react typescript boiler plate project that will help anyone get quickly started
 
 ## Description
+This project was created using steps documented in my [post](https://dev.to/swetha_chakravarthy_070ed/create-a-typescriptreact-webpack-project-ground-up-34p)
 
 ## Getting Started
 

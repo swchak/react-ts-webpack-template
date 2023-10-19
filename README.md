@@ -1,19 +1,14 @@
 # 🚀 Welcome to your new awesome project!
 
-# Project Title
-
-Simple overview of use/purpose.
+# Create React TypeScript Project from scratch
+This is react typescript boiler plate project that will help anyone get quickly started
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installing
 
@@ -21,23 +16,9 @@ An in-depth paragraph about your project and overview of use.
 npm run build
 ```
 
-or
-
-```
-yarn build
-```
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 ```
 npm run serve
-```
-
-or
-
-```
-yarn run serve
 ```
 
 ## Help
@@ -48,10 +29,7 @@ command to run if program contains helper info
 ```
 
 ## Authors
-
-Contributors names and contact info
-
-Swetha Chakravarthy
+Swetha Chakravarthy (swetha.chakravarthy@hotmail.com)
 
 ## Version History
 
